@@ -1,4 +1,4 @@
-# Dillinger
+# Shima Name
 
 Due to [this post](https://jadi.net/2015/10/shima-bug/) by [Jadi](https://github.com/jadijadi) I wrote a little function to take care of the issue.
 
