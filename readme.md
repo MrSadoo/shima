@@ -7,6 +7,7 @@ Due to [this post](https://jadi.net/2015/10/shima-bug/) by [Jadi](https://github
 ```php
 echo shima($name);
 ```
- #### Thanks to
+
+#### Thanks to
 
 [Jadi](https://github.com/jadijadi) and [Mamal](https://github.com/mamal72) for teaching me new things everyday :)
